@@ -1,6 +1,5 @@
 # polyBERT
-
-**polyBERT** is a research-oriented package developed at the Georgia Institute of Technology to enable fully machine-driven ultrafast polymer informatics.
+**A chemical language model designed to enable fully machine-driven and ultrafast polymer informatics.**
 
 ---
 
