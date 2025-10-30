@@ -1,5 +1,5 @@
-# polyBERT
-**A chemical language model designed to enable fully machine-driven and ultrafast polymer informatics.**
+# polyBERT Citation
+**Christopher Kuenneth, and Rampi Ramprasad, "polyBERT: a chemical language model to enable fully machine-driven ultrafast polymer informatics", Nature Communications 14, 4099 (2023).**
 
 ---
 
