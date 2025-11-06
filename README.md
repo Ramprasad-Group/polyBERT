@@ -20,4 +20,4 @@ See the full [LICENSE](./LICENSE) file for complete terms and conditions.
 
 The source code for the `polyBERT` package is available **upon request**.  
 Please contact **Professor Rampi Ramprasad** at [ramprasad-group-github@mse.gatech.edu](mailto:ramprasad-group-github@mse.gatech.edu).  
-All recipients must adhere to the terms and conditions outlined in the GTRC General Public Use License.
+All recipients must adhere to the terms and conditions outlined in the GTRC Academic Research Use License.
