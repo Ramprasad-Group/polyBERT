@@ -1,4 +1,4 @@
-GENERAL PUBLIC USE LICENSE AGREEMENT
+ACADEMIC RESEARCH USE LICENSE AGREEMENT
 
 PLEASE READ THIS DOCUMENT CAREFULLY BEFORE UTILIZING THE PROGRAM
 
@@ -6,27 +6,24 @@ BY UTILIZING THIS PROGRAM, YOU AGREE TO BECOME BOUND BY THE TERMS OF THIS LICENS
 
 This Program is licensed, not sold to you by GEORGIA TECH RESEARCH CORPORATION ("GTRC"), owner of all code, data and accompanying documentation (hereinafter “Program”), for use only under the terms of this License, and GTRC reserves any rights not expressly granted to you.
 
-1. In accordance with the terms and conditions set forth herein, this License allows you to:
+1. License Grant
 
-(a) make copies and distribute copies of the Program’s source code provide that any such copy clearly displays any and all appropriate copyright notices and disclaimer of warranty as set forth in Article 5 and 6 of this License. All notices that refer to this License, the developers of this Program, and to the absence of any warranty must be kept intact at all times. A copy of this License must accompany any and all copies of the Program distributed to third parties.
+This License allows academic users only—defined as employees, faculty, researchers, and students of degree-granting, non-profit educational institutions—to use the Program solely for internal, non-commercial academic research and teaching purposes.
 
-Notwithstanding anything to the contrary contained herein, a fee may be charged to cover the actual cost of the physical act of transferring a copy to a third party. At no time shall the program be sold for commercial gain either alone or incorporated with other program(s) without entering into a separate agreement with GTRC.
+All other uses, including commercial, governmental, consulting, or contract research for a third party, are strictly prohibited unless covered under a separate agreement with GTRC.
 
-(b) modify the original copy or copies of the Program or any portion thereof (“Modification(s)”). Modifications may be copied and distributed under the terms and conditions as set forth above, provided the following conditions are met:
+You may: 
+(a) Install and use the Program within your academic institution for internal research and classroom use.
+(b) Modify the Program for your internal academic research.
 
-i) any and all modified files must be affixed with prominent notices that you have changed the files and the date that the changes occurred.
+You may not:
+(c) Distribute, share, or make available the Program or any derivative works outside your institution or to any third party, including by posting on public repositories or sharing with collaborators not bound by this License.
+(d) Use the Program for any commercial purpose, fee-for-service work, sponsored research by or for a for-profit entity, or product development.
 
-ii) any work that you distribute, publish, or make available, that in whole or in part contains portions of the Program or derivative work thereof, must be licensed at no charge to all third parties under the terms of this License.
+2. Redistribution Prohibited
 
-iii) if the modified program normally reads commands interactively when run, you must cause it, when started running for such interactive use in the most ordinary way, to display and/or print an announcement with all appropriate copyright notices and disclaimer of warranty as set forth in Article 5 and 6 of this License to be clearly displayed. In addition, you must provide reasonable access to this License to the user.
-
-Any portion of a Modification that can be reasonably considered independent of the Program and separate work in and of itself is not subject to the terms and conditions set forth in this License as long as it is not distributed with the Program or any portion thereof.
-
-2. This License further allows you to copy and distribute the Program or a work based on it, as set forth in Article 1 Section b in object code or executable form under the terms of Article 1 above provided that you also either:
-
-i) accompany it with complete corresponding machine-readable source code, which must be distributed under the terms of Article 1, on a medium customarily used for software interchange; or,
-
-ii) accompany it with a written offer, valid for no less than three (3) years from the time of distribution, to give any third party, for no consideration greater than the cost of physical transfer, a complete machine-readable copy of the corresponding source code, to be distributed under the terms of Article 1 on a medium customarily used for software interchange; or,
+Redistribution of the Program, in whole or in part, modified or unmodified, is not permitted under this License.
+Any transfer, sublicensing, posting, public release, or electronic sharing of the Program or derivative works is strictly forbidden without prior written approval from GTRC.
 
 3. Export Law Assurance.
 
@@ -34,7 +31,7 @@ You agree that the Software will not be shipped, transferred or exported, direct
 
 4. Termination.
 
-If at anytime you are unable to comply with any portion of this License you must immediately cease use of the Program and all distribution activities involving the Program or any portion thereof.
+If you violate any term of this License, your rights under this License will terminate immediately and automatically without notice. Upon termination, you must cease all use of the Program and destroy all copies in your possession.
 
 5. Disclaimer of Warranties and Limitation on Liability.
 
