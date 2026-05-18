@@ -17,7 +17,6 @@ See the full [LICENSE](./LICENSE) file for complete terms and conditions.
 ---
 
 ## Source Code Access
-
-The source code for the `polyBERT` package is available **upon request**.  
-Please contact **Professor Rampi Ramprasad** at [ramprasad-group-github@mse.gatech.edu](mailto:ramprasad-group-github@mse.gatech.edu).  
+The source code for the polyBERT package is available **upon request**.
+Please contact **Professor Rampi Ramprasad** at [ramprasad-group-github@mse.gatech.edu](mailto:ramprasad-group-github@mse.gatech.edu) using your institutional email account and cc your PI/advisor in the email.
 All recipients must adhere to the terms and conditions outlined in the GTRC Academic Research Use License.
